@@ -1,2 +1,4 @@
 # GestionEmpresa
-Ejercicio de gestion empresarial.
+Deportes: Maria
+Pelis: Bernat
+Libros: javi
